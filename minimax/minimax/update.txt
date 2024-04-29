@@ -1,1 +1,2 @@
-!!!!!!!!!!!!!!!! I changed database password from rootpassword123 to 1234 in DBconnect and products chnage that in order for it to work on your machine or make new account on sql !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+["Dundalk Jersey", 80.00, "https://img.resized.co/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAyNFxcXC8wMlxcXC8xNTE4MDAxMVxcXC8yNzMzNDE2LmpwZ1wiLFwid2lkdGhcIjpcIjc2OFwiLFwiaGVpZ2h0XCI6XCI0OTFcIixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2ltYWdlc1xcXC9icmFuZC1pbWFnZS5qcGdcIixcIm9wdGlvbnNcIjp7XCJvdXRwdXRcIjpcIndlYnBcIixcInF1YWxpdHlcIjo5OX19IiwiaGFzaCI6IjUxMjVlYjc3ZTAyNDc2NTM0ZDQyMDE3NDQ3ZTM5NzM2OGE2NWEyOTMifQ==/the-definitive-ranking-of-every-league-of-ireland-home-kit-for-2024.jpg"],
