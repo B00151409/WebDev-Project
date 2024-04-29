@@ -1,0 +1,1 @@
+!!!!!!!!!!!!!!!! I changed database password from rootpassword123 to 1234 in DBconnect and products chnage that in order for it to work on your machine or make new account on sql !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
